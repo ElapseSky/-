@@ -14,5 +14,6 @@
 运行方法：
 先下载所有依赖项
 `$ pip3 install -r requirements.txt`
+
 然后运行主代码
 `$ python hand_control_volume.py`
