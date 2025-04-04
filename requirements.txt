@@ -1,0 +1,5 @@
+mediapipe==0.10.13
+comtypes
+pycaw
+numpy
+opencv-python
